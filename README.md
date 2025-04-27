@@ -25,3 +25,14 @@ When inside the environment, install Flask.
 ```
 $ pip install Flask
 ```
+
+## Start Server
+Start the server with:
+```
+flask run
+```
+or
+```
+flask run --debug
+'''
+for easy debugging.
